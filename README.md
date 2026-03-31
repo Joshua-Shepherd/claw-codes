@@ -1,7 +1,7 @@
  ## 🧱 Rewriting Project Claw Code
 
 <p align="center">
-  <img src="assets/clawd-hero.jpeg" alt="Claw" width="300" />
+  <img src="https://i.imgur.com/J8Do1R1.jpeg" alt="Claw" width="350" />
 </p>
 
 <p align="center">
