@@ -17,11 +17,11 @@
 If you find this project useful, consider giving it a star ⭐ and following me on GitHub.
 <p align="center">
   <a href="https://github.com/sponsors/0xKarl-dev">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github&style=for-the-badge" alt="Sponsor on GitHub" />
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor on GitHub" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp; | &nbsp;&nbsp;
   <a href="https://bmacc.app/tip/0xkarl">
-    <img src="https://img.shields.io/badge/Support-BMACC-0052FF?logo=base&logoColor=white&style=for-the-badge" alt="Support on BMACC" />
+    <img src="https://img.shields.io/badge/Tip-BMACC-0052FF?style=for-the-badge&logo=base&logoColor=white" alt="Support on BMACC" />
   </a>
 </p>
 
